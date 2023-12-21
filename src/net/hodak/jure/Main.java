@@ -94,180 +94,180 @@ public class Main {
 
     public static void displayMobs(){
         if (nmbOfMobs == 1){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
         }else if(nmbOfMobs==2){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
 
         }else if(nmbOfMobs==3){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
 
         }else if(nmbOfMobs==4){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
         }else if(nmbOfMobs==5){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob5[i] + " ");
             }
         }else if(nmbOfMobs==6){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob5[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob6[i] + " ");
             }
         }else if(nmbOfMobs==7){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob5[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob6[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob7[i] + " ");
             }
         }else if(nmbOfMobs==8){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob5[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob6[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob7[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob8[i] + " ");
             }
         }else if(nmbOfMobs==9){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob5[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob6[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob7[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob8[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob9[i] + " ");
             }
         }else if(nmbOfMobs==10){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob1[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob2[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob3[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob4[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob5[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob6[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob7[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob8[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob9[i] + " ");
             }
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i<=2; i++){
                 System.out.print(mob10[i] + " ");
             }
         }
